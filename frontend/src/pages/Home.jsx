@@ -3,11 +3,11 @@ import { useAuth } from "../context/AuthContext";
 import DashboardTodo from "./DashboardTodo";
 
 export default function Home() {
-  const { isAuthenticated, logout } = useAuth();
+  const { isAuthenticated } = useAuth();
 
   // --- JIKA SUDAH LOGIN: Langsung panggil Dashboard ---
   if (isAuthenticated) {
-    return <DashboardTodo logout={logout} />;
+    return <DashboardTodo />;
   }
 
   // --- TAMPILAN LANDING PAGE (BELUM LOGIN) ---
