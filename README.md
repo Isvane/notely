@@ -3,11 +3,17 @@
 This repository contains the project submission for RPL - Final Semester Exam.
 
 ## Group Members
-* Haiqal A. ([@Haiqal](https://github.com/Isvane))
-* Dafa A. ([@Dafa](https://github.com/Dafa-Web-progaming))
-* Maulana R. ([@Maulana](https://github.com/MaulanaRizky6))
-* Arif R. ([@Arif](https://github.com/arifrahmanpratama1))
-* Zahrah F. ([@Zahrah](https://github.com/moezaazzara))
+
+* **Haiqal A.** ([@Haiqal](https://github.com/Isvane)) | **Project Lead & Fullstack Engineer**
+  * *Responsibilities:* Project architecture, backend core (FastAPI, SQLite, JWT Auth), repository & dev-tooling setup (`justfile`), and frontend-backend integration.
+* **Dafa A.** ([@Dafa](https://github.com/Dafa-Web-progaming)) | **Backend Developer**
+  * *Responsibilities:* Authentication system logic (Login & Signup features) and dashboard backend integration.
+* **Maulana R.** ([@Maulana](https://github.com/MaulanaRizky6)) | **Backend Developer**
+  * *Responsibilities:* Endpoint restructuring and authentication routing management.
+* **Arif R.** ([@Arif](https://github.com/arifrahmanpratama1)) | **Frontend & UI Developer**
+  * *Responsibilities:* Landing page implementation, visual assets/animations, layout variables, and code refactoring.
+* **Zahrah F.** ([@Zahrah](https://github.com/moezaazzara)) | **UI/UX & Frontend Styles Developer**
+  * *Responsibilities:* Unified CSS architecture styling and global application themes (Pastel Pink implementation).
 
 ---
 
