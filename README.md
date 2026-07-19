@@ -2,6 +2,8 @@
 
 This repository contains the project submission for RPL - Final Semester Exam.
 
+![Homepage](docs/notely-home.png)
+
 ## Group Members
 
 * **Haiqal A.** ([@Haiqal](https://github.com/Isvane)) | **Project Lead & Fullstack Engineer**
